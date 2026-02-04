@@ -1,0 +1,26 @@
+{
+  "Version": "6.0",
+  "Notification": "Update thêm dò boss vip.",
+  "Update": [
+    {
+      "Name": "Assembly-CSharp.dll",
+      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/Assembly-CSharp.dll",
+      "Path": "ClientPVT_Data\\Managed\\"
+    },
+    {
+      "Name": "mono.dll",
+      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/mono.dll",
+      "Path": "ClientPVT_Data\\Mono\\"
+    },
+    {
+      "Name": "AutoLinkMapsWaypoint.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/AutoLinkMapsWaypoint.txt",
+      "Path": "ClientPVT_Data\\XmapData\\"
+    },
+    {
+      "Name": "QLTK.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnr/main/QLTK.exe",
+      "Path": "\\"
+    }
+  ]
+}
