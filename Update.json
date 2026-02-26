@@ -1,6 +1,6 @@
 {
   "Version": "3.0",
-  "Notification": "Update thêm dò boss vip.",
+  "Notification": "Sửa lại dò boss lần lượt từ dưới lên cao.",
   "Update": [
     {
       "Name": "Assembly-CSharp.dll",
