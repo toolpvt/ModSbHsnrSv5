@@ -13,11 +13,6 @@
       "Path": "ClientPVT_Data\\Mono\\"
     },
     {
-      "Name": "AutoLinkMapsWaypoint.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnrSv5/main/AutoLinkMapsWaypoint.txt",
-      "Path": "ClientPVT_Data\\XmapData\\"
-    },
-    {
       "Name": "QLTK.exe",
       "Link": "https://raw.githubusercontent.com/toolpvt/ModSbHsnrSv5/main/QLTK.exe",
       "Path": "\\"
